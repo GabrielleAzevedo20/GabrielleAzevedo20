@@ -2,7 +2,7 @@
 
 -👩‍💻 Estudando Typescript, C#, Python, NodeJS e Flutter;
 - 💬 Gosto de jogos e programar;
-- 😄 Pronouns: ela/dela;
+- 😄 Pronomes: ela/dela;
 
 <div>
   <a href="https://github.com/GabrielleAzevedo20">
