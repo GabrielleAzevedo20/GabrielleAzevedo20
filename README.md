@@ -1,6 +1,6 @@
 ### Olá, 
 
--👩‍💻 Estudando Typescript, C#, Python, NodeJS e Flutter;
+-👩‍💻 Estudando Typescript, C#, Python, NodeJS;
 - 💬 Gosto de jogos e programar;
 - 😄 Pronomes: ela/dela;
 
