@@ -1,8 +1,6 @@
 ### Olá, 
 
--👩‍💻 Estudando Typescript, C#, Python, NodeJS;
-- 💬 Gosto de jogos e programar;
-- 😄 Pronomes: ela/dela;
+-👩‍💻 Learning Typescript, C#, Python, NodeJS and Java;
 
 <div>
   <a href="https://github.com/GabrielleAzevedo20">
