@@ -1,6 +1,6 @@
 ### Olá, 
 
--👩‍💻 Learning Typescript, C#, Python, NodeJS and Java;
+-👩‍💻 Learning Typescript, C#, Python, and Java;
 
 <div>
   <a href="https://github.com/GabrielleAzevedo20">
